@@ -5,7 +5,7 @@
 
 inline storage of `Any` type
 
-safe version of [`typeless`](https://www.crates.io/crate/typeless)
+safe version of [`typeless`](https://www.crates.io/crates/typeless)
 
 ## Usage
 
